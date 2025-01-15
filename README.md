@@ -1,0 +1,2 @@
+- Create a .env file
+- Need to set SRC_DATA_PATH in .env a file to make this work.
